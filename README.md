@@ -1,3 +1,6 @@
+THIS IS A SIGNIFICANT CHANGE MADE BY I222603. :)
+So, in order to make the MERN-Starter run seamlessly without any errors, you need to run the command "npm install" in both frontend and backend, so it runs on the node.
+
 # MERN-Starter
 
 ## Description
